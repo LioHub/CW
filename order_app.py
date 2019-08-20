@@ -45,7 +45,7 @@ from core import show_confirm_sub_water
 token = ''
 bot = TeleBot(token)
 
-# WEBHOOK_HOST = '194.67.217.180'
+# WEBHOOK_HOST = ''
 # WEBHOOK_PORT = 8443  # 443, 80, 88 или 8443 (порт должен быть открыт!)
 # LOCAL_PORT = 9001  #
 # LOCAL_LISTEN = '127.0.0.1'
